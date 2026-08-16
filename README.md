@@ -42,7 +42,9 @@ real-estate-landing-page/
 │   ├── property-2 (2).jpg
 │   └── property-3.png
 │
-└── README.md<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/e595e8b3-5e5d-4d8e-ab1b-e6bc8c1a7ee7" />
+└── README.md
+
+<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/e595e8b3-5e5d-4d8e-ab1b-e6bc8c1a7ee7" />
 <img width="1920" height="1080" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/9f239f2e-7860-4390-9884-9857cd30759e" />
 <img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/0ee68c03-62ea-4f6b-a27e-3758e433ff36" />
 <img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/b3c84b5e-b4ef-4eca-bba1-5a5e1e9ebaec" />
