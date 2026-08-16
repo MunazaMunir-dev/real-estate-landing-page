@@ -32,10 +32,20 @@ This project is designed for real estate agencies to showcase properties, attrac
 🌐 **Live Demo:** https://real-estate-landing-page-self.vercel.app/
 
 🔗 **GitHub:** https://github.com/MunazaMunir-dev/real-estate-landing-page
+<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/eabc20db-543a-424d-a615-371217d7f30c" />
+<img width="1920" height="1080" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/5ce67120-5431-4555-a1c1-01adfca8d31a" />
+<img width="1920" height="1080" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/3de8f633-01ce-4b78-a194-22fa99978162" />
+<img width="1920" height="1080" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/76fc8c47-83a3-44fd-a2f9-08d4c4ce0bc6" />
+<img width="1920" height="1080" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/71089d3b-cb44-4ab3-97c5-8382ed1f907c" />
+<img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/3f6ab812-5589-4dda-b5a5-196768d0eaec" />
+<img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/304607c6-6668-4432-9608-0fce607e2e73" />
+<img width="1920" height="1080" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/299d08eb-184e-44b4-9cad-8c44cce0b777" />
+<img width="1920" height="1080" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/367c3ca4-1f46-46af-823c-19b6d8395359" />
+
 
 ## 📂 Project Structure
 
-```text
+
 real-estate-landing-page/
 │
 ├── index.html
@@ -50,15 +60,3 @@ real-estate-landing-page/
 │
 └── README.md
 
-<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/e595e8b3-5e5d-4d8e-ab1b-e6bc8c1a7ee7" />
-<img width="1920" height="1080" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/9f239f2e-7860-4390-9884-9857cd30759e" />
-<img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/0ee68c03-62ea-4f6b-a27e-3758e433ff36" />
-<img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/b3c84b5e-b4ef-4eca-bba1-5a5e1e9ebaec" />
-<img width="1920" height="1080" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/7387c6a9-c0f7-4d8d-a29f-9c27ba6ca6f1" />
-<img width="1920" height="1080" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/acb2fd46-1b8b-4a9e-9ea1-186911c72d7f" />
-<img width="1920" height="1080" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/fa2002bd-c313-44d9-a7d4-8238c0d02fcf" />
-<img width="1920" height="1080" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/b8ac3a77-a18d-4cba-94c3-0136d2472212" />
-<img width="1920" height="1080" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/e7a72133-182e-4c44-8d35-3b7476f38356" />
-<img width="1920" height="1080" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/f648cef6-ebce-4a92-aace-c1b9de97f7a8" />
-<img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/d4a6ed0a-f99b-4e09-b927-8726d306d34e" />
-<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/0e31acc1-5bcc-4ce8-b1d3-9680836f799e" />
