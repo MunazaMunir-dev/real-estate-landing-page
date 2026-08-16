@@ -29,7 +29,10 @@ This project is designed for real estate agencies to showcase properties, attrac
 
 # 🏠 Real Estate Landing Page
 
-🌐 **Live Demo:** https://YOUR-VERCEL-LINK.vercel.app
+🌐 **Live Demo:** https://real-estate-landing-page-self.vercel.app/
+
+🔗 **GitHub:** https://github.com/MunazaMunir-dev/real-estate-landing-page
+
 ## 📂 Project Structure
 
 ```text
